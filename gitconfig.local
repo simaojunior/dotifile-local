@@ -1,0 +1,12 @@
+[alias]
+  l = log --pretty=colored
+[pretty]
+  colored = format:%Cred%h%Creset %s %Cgreen(%cr) %C(bold blue)%an%Creset
+[user]
+  name  = Simão Junior
+  email = simao.msjr@gmail.com
+  username = simao-msjr
+[core]
+  editor = vim
+[github]
+  user   = simao-msjr
